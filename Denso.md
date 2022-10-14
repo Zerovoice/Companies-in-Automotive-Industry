@@ -1,4 +1,4 @@
-# [![Denso](/assets/img/Denso.png "cockpit") ](https://www.denso.com/global/en/business/products-and-services/mobility/safety-cockpit/)
+# [![Denso](/assets/img/Denso.svg "cockpit") ](https://www.denso.com/global/en/business/products-and-services/mobility/safety-cockpit/)
 
 # ***[Denso 电装](https://www.denso.com/global/en/business/products-and-services/mobility/safety-cockpit/ "cockpit")***
 
