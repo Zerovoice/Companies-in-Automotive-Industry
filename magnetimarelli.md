@@ -1,4 +1,4 @@
-# [![MagnetiMarelli](/assets/img/MagnetiMarelli.svg "Home-products") ](https://www.magnetimarelli-parts-and-services.com/products/spare-parts.html)
+# [![MagnetiMarelli](./assets/img/MagnetiMarelli.svg "Home-products") ](https://www.magnetimarelli-parts-and-services.com/products/spare-parts.html)
 
 # ***[MagnetiMarelli](https://en.wikipedia.org/wiki/Magneti_Marelli "wikipedia")  [玛涅蒂 马瑞利集团](https://baike.baidu.com/item/%E9%A9%AC%E7%91%9E%E5%88%A9%E9%9B%86%E5%9B%A2/9822296 "百度百科")***
 

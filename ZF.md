@@ -1,4 +1,4 @@
-# [![ZF](/assets/img/ZF.svg "Home-products") ](https://www.zf.com/products/en/cars/home/cars.html)
+# [![ZF](./assets/img/ZF.svg "Home-products") ](https://www.zf.com/products/en/cars/home/cars.html)
 
 # ***[ZF](https://www.zf.com/products/en/cars/stories/software_as_a_product.html "Home-software")  [采埃孚](https://zh.wikipedia.org/zh-cn/%E9%87%87%E5%9F%83%E5%AD%9A "wikipedia")***
 

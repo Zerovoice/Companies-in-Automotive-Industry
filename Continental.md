@@ -1,4 +1,4 @@
-# [![Continental](/assets/img/Continental.svg "automotive") ](https://www.continental.com/en/products-and-innovation/products/automotive/)  
+# [![Continental](./assets/img/Continental.svg "automotive") ](https://www.continental.com/en/products-and-innovation/products/automotive/)  
 
 <!-- ![Continental](/assets/img/Continental.png ) -->
 

@@ -1,4 +1,4 @@
-# [![Mobis](/assets/img/Mobis.png "Home-solution") ](https://www.mobis.co.kr/en/tech/tech.do#solution)
+# [![Mobis](./assets/img/Mobis.png "Home-solution") ](https://www.mobis.co.kr/en/tech/tech.do#solution)
 
 # ***[Mobis](https://zh.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E6%91%A9%E6%AF%94%E6%96%AF "wikipedia")  [现代摩比斯](https://zh.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E6%91%A9%E6%AF%94%E6%96%AF "wikipedia")***
 

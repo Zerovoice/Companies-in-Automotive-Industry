@@ -1,4 +1,4 @@
-# [![Visteon](/assets/img/Visteon.png "Home-products") ](https://www.visteon.com/products/)
+# [![Visteon](./assets/img/Visteon.png "Home-products") ](https://www.visteon.com/products/)
 
 # ***[Visteon](https://www.visteon.com/products/domain-controller/ "domain-controller")  [伟世通](https://en.wikipedia.org/wiki/Visteon "wikipedia")***
 

@@ -1,4 +1,4 @@
-# [![Harman](/assets/img/Harman.svg "automotive") ](https://www.harman.com/automotive)
+# [![Harman](./assets/img/Harman.svg "automotive") ](https://www.harman.com/automotive)
 
 # ***[Harman](https://car.harman.com/solutions/digital-cockpit "cockpit")***
 
