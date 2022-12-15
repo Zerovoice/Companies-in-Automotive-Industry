@@ -41,6 +41,7 @@ collection of Companies [infos in Automotive Industry](https://www.marklines.com
   - [Castwerk](./Castwerk.md)
   - [Cyvision](./Cyvision.md)
   - [Elektrobit](./Elektrobit.md)
+  - [Iriso](./Iriso.md)
   - [Jetronic](./Jetronic.md)
   - [P3](./P3.md)
   - [RockChip](./RockChip.md)

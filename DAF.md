@@ -5,7 +5,7 @@
 
 
 ## Trend
-- Trend1
+- [DAF tech day report](./files/DAF_Tech_Day_Report_21.11.2022.pdf)  to be discussed futher
 - Trend2
 
 ## Contact

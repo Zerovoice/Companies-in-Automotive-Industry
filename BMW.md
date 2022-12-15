@@ -6,7 +6,7 @@
 
 ## Trend
 - [MINI Concept Aceman: Digital, full electric, responsible.](https://www.bmwgroup.com/en/news/general/2022/MiniConceptAceman.html "Aceman") 宝马Mini概念车，可以借鉴其概念推介MicroLED及Laser相关产品 https://www.mini.com/en_MS/home/products/mini-concept-aceman.html
-- Trend2
+- [BMW 2029 Innovation](./BMW%202029.md)
 
 ## Contact
 Bayerische Motoren Werke Aktiengesellschaft
@@ -45,6 +45,35 @@ karsten.k.kettler@bmw.de
 mario.jandrisevits@bmw.de
 marius.matzig@bmw.de
 martin.dirnberger@bmw.de
+```
+- BMW
+```
+ <Uwe.Koehler@bmw.de> Senior Vice President, 
+ <Michele.Melchiorre@bmwgroup.com>, 
+ <Stefan.Schaubeck@bmw.de>, 
+ <Marcus.Schulze-Dieckhoff@bmw.de>,
+ <Peter.Zisch@bmw.de>, 
+ <Axel.Sander@bmw.de>, 
+ <Ulrich.Dahmen@bmw.de>, 
+ <Judith.Huebner@bmw.de>, 
+ <Thomas.Thym@bmw.de>, 
+ <Dieter.Dullinger@bmw.de>, 
+ <Arno.Keller@bmw.de>, 
+ <Frank.Meir@bmw.de>, 
+ <Dirk.Margane@bmw.de>, 
+ <Robert.Lindermaier@bmw.de>, 
+ <Jochen.Kopp@bmw.de>, 
+ <Christin.Birg@bmw.de>, 
+ <Andreas.Aumann@bmwgroup.com>, 
+ <Domagoj.Dukec@bmw.de>, 
+ <Senol.Kapici@bmw.de>, 
+ <Wolfgang.Rieger@bmw.de>, 
+ <Andrea.Hafner@bmw.de>, 
+ <heike-caroline.krismer@bmw.de>, 
+ <Philipp.Lichtinger@bmw.de>, 
+ <Franziska.Roeder@bmw.de>, 
+ <Marius.Matzig@bmw.de>
+ <Wichuda.Herrmann@bmw.de>
 ```
 
 - BMW musum
